@@ -1,34 +1,34 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Books on the Square",
+    subtitle: "HTML / CSS",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+      "Redesigning the website and brand identity for a local Providence bookstore.",
+    image: "./StyleGuide_Hero.png",
+    link: "https://smoothtuna001.github.io/Redesign-Submit/",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "NFTScoring",
+    subtitle: "Brand Identity",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+      "Building a high fidelity prototype for a pre-existing YCombinator startup.",
+    image: "./NFTScoringStyleGuideHero-01.png",
+    link: "https://jocular-bunny-cf92f1.netlify.app/",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Daily UI",
+    subtitle: "Figma, Illustrator",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+      "Creating digital assets as a means of practicing UI principles.",
+    image: "./Day1 - Sign In.jpg",
+    link: "https://www.elliottsrosenberg.com/daily-ui",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Personas and Storyboarding",
+    subtitle: "UX Research",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
+      "Analyzing an interface as a means of understanding common user issues.",
+    image: "./HeroPhoto.png",
     link: "https://reactbootcamp.com",
   },
 ];
@@ -51,10 +51,12 @@ export const testimonials = [
 ];
 
 export const skills = [
-  "JavaScript",
   "React",
-  "Next.js",
-  "Node",
-  "GraphQL",
-  "Material UI",
+  "HTML / CSS",
+  "Python",
+  "JavaScript",
+  "Java",
+  "Adobe Suite",
+  "Figma",
+  "Rhino3D"
 ];
