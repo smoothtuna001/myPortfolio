@@ -12,8 +12,8 @@ export default function Skills() {
           <h1 className="sm:text-4xl text-3xl font-medium title-font text-white mb-4">
             Skills
           </h1>
-          <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-            Here are some of the things that I'm good at.
+          <p className="text-base leading-relaxed xl:w-3/5 lg:w-3/4 mx-auto">
+            Here are some of the things that I'm good at. You can view my full resume by clicking <strong className="text-gray-300">here</strong>
           </p>
         </div>
         <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
